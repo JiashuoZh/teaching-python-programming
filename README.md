@@ -15,29 +15,30 @@ While the book provides structured experiments, I expand each topic with additio
 
 ---
 
-## 📂 Repository Structure
-├── lab01_environment_setup/ # Python development environment
-├── lab02_turtle_graphics/ # Visualization basics with turtle
-├── lab03_data_types_expressions/ # Variables, types, expressions
-├── lab04_library_functions/ # Common built-in functions
-├── lab05_conditionals/ # if, elif, else
-├── lab06_loops/ # for, while
-├── lab07_list_tuple/ # Lists & tuples
-├── lab08_dict_set/ # Dictionaries & sets
-├── lab09_functions_part1/ # Function basics
-├── lab10_functions_part2/ # Advanced functions
-├── lab11_strings/ # String operations
-├── lab12_regex/ # Regular expressions
-├── lab13_exceptions/ # Error & exception handling
-├── lab14_file_handling/ # Reading & writing files
-├── lab15_database_programming/ # SQLite basics
-├── lab16_oop_basics/ # Object-oriented programming
-├── lab17_tkinter_gui/ # GUI programming
-├── lab18_web_crawling/ # Web scraping introduction
-├── lab19_sci_computing/ # Scientific computing & data analysis
-├── lab20_data_visualization/ # Matplotlib / Seaborn basics
-├── lab21_final_project/ # Integrated final project
 
+| Folder | Description |
+|---|---|
+| lab01_environment_setup/ | Python development environment |
+| lab02_turtle_graphics/ | Visualization basics with turtle |
+| lab03_data_types_expressions/ | Variables, types, expressions |
+| lab04_library_functions/ | Common built-in functions |
+| lab05_conditionals/ | if / elif / else |
+| lab06_loops/ | for / while |
+| lab07_list_tuple/ | Lists & tuples |
+| lab08_dict_set/ | Dictionaries & sets |
+| lab09_functions_part1/ | Function basics |
+| lab10_functions_part2/ | Advanced functions |
+| lab11_strings/ | String operations |
+| lab12_regex/ | Regular expressions |
+| lab13_exceptions/ | Error & exception handling |
+| lab14_file_handling/ | Reading & writing files |
+| lab15_database_programming/ | SQLite basics |
+| lab16_oop_basics/ | Object-oriented programming |
+| lab17_tkinter_gui/ | GUI programming |
+| lab18_web_crawling/ | Web scraping introduction |
+| lab19_sci_computing/ | Scientific computing & data analysis |
+| lab20_data_visualization/ | Matplotlib / Seaborn basics |
+| lab21_final_project/ | Integrated final project |
 
 ---
 
